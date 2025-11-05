@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-05T19:21:09 PKT" name="Suite" finished-at="2025-11-05T19:21:38 PKT" duration-ms="28420">
+    <groups>
+    </groups>
+    <test started-at="2025-11-05T19:21:09 PKT" name="Test" finished-at="2025-11-05T19:21:38 PKT" duration-ms="28420">
+      <class name="testCases.TestCaseBooking1">
+        <test-method is-config="true" signature="open()[pri:0, instance:testCases.TestCaseBooking1@ce5a68e]" started-at="2025-11-05T19:21:09 PKT" name="open" finished-at="2025-11-05T19:21:17 PKT" duration-ms="7697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="booking_appointment()[pri:1, instance:testCases.TestCaseBooking1@ce5a68e]" started-at="2025-11-05T19:21:17 PKT" name="booking_appointment" finished-at="2025-11-05T19:21:38 PKT" duration-ms="20624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- booking_appointment -->
+      </class> <!-- testCases.TestCaseBooking1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
